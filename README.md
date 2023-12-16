@@ -4,4 +4,4 @@ This challenge was meant to help me explore the NoSQL type of document database 
 
 I was able to successfully update the database to insert a new document as well as change the datatypes of certain fields in all the documents in the collection.
 
-I was able to perform exploratory analysis on the collection by examining different aspects of the data stored in the documents in the collection. After obtaining the results to different queries based on the data of interest, I was able to capture the resutlts in Panda Data Frames to match the desired outputs. 
+I was able to perform exploratory analysis on the collection by examining different aspects of the data stored in the documents in the collection. After obtaining the results to different queries based on the data of interest, I was able to capture the results in Panda Data Frames to match the desired outputs. 

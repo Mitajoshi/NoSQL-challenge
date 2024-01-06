@@ -8,15 +8,15 @@ This challenge was meant to help me explore the NoSQL type of document database 
 
 I was able to perform exploratory analysis on the collection by examining different aspects of the data stored in the documents in the collection.
 
-#### Part 1: Database and Jupyter Notebook Set Up
+### Part 1: Database and Jupyter Notebook Set Up
 
 In this part, we are connecting to a database through PyMongo by creating an instance of Mongo Client. Upon successfull connection, we then import the data into pandas dataframe for further steps. 
 
-#### Part 2: Update the Database
+### Part 2: Update the Database
 
 In this part the data is updated based on the provided criteria and upon verification of proper updation, the data is then stored back into the database for further analysis. 
 
-#### Part 3: Exploratory Analysis
+### Part 3: Exploratory Analysis
 
 There were specific questions to be answered, which aids in finding the locations that are to be visited and/or avoided.
 
